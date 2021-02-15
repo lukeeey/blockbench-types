@@ -64,6 +64,7 @@ type EventName = 'remove_animation'
 	| 'redo'
 	| 'select_mode'
 	| 'unselect_mode'
+	| string
 
 type IconString = string;
 
